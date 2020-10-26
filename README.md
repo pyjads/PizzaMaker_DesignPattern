@@ -10,7 +10,7 @@ This is a small project built using 4 Design Patterns
 
 ### Usage
 1. Clone the repository
-2. Uncomment [Main.java](src/main/Main.java)
+2. Uncomment [Main.java](https://github.com/pyjads/PizzaMaker_DesignPattern/blob/feature/src/main/java/main/Main.java)
 3. Compile and Run 
 
 ### gradle 
